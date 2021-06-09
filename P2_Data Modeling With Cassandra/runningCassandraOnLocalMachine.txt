@@ -1,0 +1,7 @@
+To start up cassandra DB server, write in command line
+
+$ cassandra -f
+
+To run cal shell, and run queries on the data base, open new terminal while server is running and write in command line:
+
+$ clash
